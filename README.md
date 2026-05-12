@@ -6,7 +6,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jihyeonu910@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hyeonu8745)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://alkaline-spike-6ba.notion.site/GateMate-26ef71f2d01e80faac8ad06b203a604e)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://alkaline-spike-6ba.notion.site/GateMate-26ef71f2d01e80faac8ad06b203a604e)
 </div>
 
 ---
